@@ -1,0 +1,21 @@
+id_cliente,nome_cliente,email,telefone,cidade,estado
+1,Cunha S.A.,bianca26@example.com,(021) 3212-6381,Pinto de Goiás,PA
+2,Gomes Gomes - ME,henriquearaujo@example.org,+55 (041) 0669-0636,Ferreira do Galho,SE
+3,Peixoto - ME,moreiraana-clara@example.org,0300 072 8846,Jesus do Galho,SE
+4,Cunha Ltda.,zcorreia@example.net,(084) 1420 9516,Campos da Mata,RR
+5,Cunha,freitasnicolas@example.com,+55 41 6145 1625,Ferreira,SP
+6,Ribeiro,leonardo38@example.org,84 8652 0387,da Conceição,ES
+7,Araújo,mfernandes@example.org,+55 51 3713 1828,Gomes,CE
+8,Vieira Ltda.,maria-luiza72@example.net,0300-197-3180,da Cunha do Campo,BA
+9,Araújo da Rocha - EI,yuricastro@example.org,+55 (011) 4860 8525,Jesus do Galho,DF
+10,Caldeira Ltda.,ljesus@example.org,+55 (061) 6757 5093,Aragão,ES
+11,Martins,joana33@example.net,+55 (061) 7436-6785,Novaes,AP
+12,Rodrigues e Filhos,tviana@example.org,+55 51 9225 6802,Barbosa de Pires,TO
+13,da Rocha,luiz-felipe56@example.org,(021) 8826-6123,Pereira de Goiás,RS
+14,da Rocha - EI,peixotomariane@example.net,+55 (021) 5499 3000,Fogaça,SE
+15,Gomes - EI,nascimentodavi-lucca@example.org,+55 (051) 1023 9913,da Rocha do Norte,PR
+16,Viana Campos Ltda.,leticia29@example.net,+55 (084) 2114 1993,Melo do Campo,SP
+17,Rocha - EI,sda-mata@example.net,81 4849 8801,Ribeiro,PE
+18,Cardoso Ramos - ME,raquelribeiro@example.com,+55 81 9043 4814,da Rocha das Flores,TO
+19,da Rosa,sophiemelo@example.org,0800 718 4288,Farias de da Costa,RJ
+20,Sales,giovanna32@example.com,(031) 9361-1290,Aragão,MG
