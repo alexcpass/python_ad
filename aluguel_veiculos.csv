@@ -1,0 +1,122 @@
+"id";"valor_total_locacao";"qtde_portas";"ar_condicionado";"data_inicio_locacao";"idade_locatario";"genero";"quilometragem";"cotacao_dolar";"Estado";"cidade";"qtde_diarias"
+1;368.38;"2 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Masculino";957.44;4.41;"Minas Gerais";"Belo Horizonte";3
+2;446.85;"4 portas";"com ar condicionado";"2021-05-12 00:00:00";18;"Feminino";829.53;5.63;"Bahia";"Feira de Santana";4
+3;414.73;"5 portas";"sem ar condicionado";"2021-04-14 00:00:00";28;"Feminino";923.3;8.81;"Rio de Janeiro";"Rio de Janeiro";2
+4;434.29;"6 portas";"com ar condicionado";"2021-06-02 00:00:00";21;"Feminino";871.52;4.26;"São Paulo";"São Paulo";2
+5;436.65;"7 portas";"com ar condicionado";"2021-05-13 00:00:00";18;"Feminino";930.7;6.93;"Minas Gerais";"Divinópolis";4
+6;414.73;"8 portas";"com ar condicionado";"2021-04-16 00:00:00";31;"Feminino";665.7;5.27;"Goiás";"Anápolis";3
+7;448.8;"9 portas";"sem ar condicionado";"2021-04-19 00:00:00";24;"Masculino";455.7;4.3;"São Paulo";"Ribeirão Preto";4
+8;352.04;"10 portas";"sem ar condicionado";"2021-06-03 00:00:00";33;"Feminino";829.53;2.97;"São Paulo";"Marília";3
+9;457.66;"11 portas";"sem ar condicionado";"2021-04-15 00:00:00";21;"Feminino";554.7;1.61;"Minas Gerais";"Belo Horizonte";4
+10;414.73;"12 portas";"com ar condicionado";"2021-04-14 00:00:00";25;"Feminino";923.3;8.81;"Rio de Janeiro";"Niterói";3
+11;490.69;"13 portas";"com ar condicionado";"2021-06-03 00:00:00";18;"Feminino";501.94;2.58;"Minas Gerais";"Belo Horizonte";4
+12;474.88;"14 portas";"sem ar condicionado";"2021-05-14 00:00:00";20;"Feminino";665.44;4.67;"Goiás";"Goiânia";3
+13;458.46;"15 portas";"com ar condicionado";"2021-04-16 00:00:00";25;"Masculino";568.24;1.68;"Bahia";"Salvador";2
+14;412.72;"16 portas";"sem ar condicionado";"2021-06-04 00:00:00";29;"Feminino";930.7;7.34;"São Paulo";"São Paulo";2
+15;442.44;"17 portas";"sem ar condicionado";"2021-05-15 00:00:00";19;"Feminino";554.7;3.48;"Goiás";"Anápolis";2
+16;448.8;"18 portas";"com ar condicionado";"2021-05-15 00:00:00";18;"Masculino";554.7;4.52;"São Paulo";"Ribeirão Preto";3
+17;352.04;"19 portas";"com ar condicionado";"2021-04-17 00:00:00";33;"Feminino";829.53;2.97;"São Paulo";"Marília";3
+18;449.46;"20 portas";"sem ar condicionado";"2021-06-05 00:00:00";20;"Masculino";665.44;9.91;"São Paulo";"Ribeirão Preto";3
+19;416.15;"21 portas";"com ar condicionado";"2021-05-16 00:00:00";21;"Masculino";871.52;8.56;"Minas Gerais";"Divinópolis";4
+20;416.5;"22 portas";"sem ar condicionado";"2021-04-18 00:00:00";18;"Feminino";930.7;5.93;"Minas Gerais";"Divinópolis";4
+21;551.32;"23 portas";"com ar condicionado";"2021-06-06 00:00:00";21;"Feminino";351.55;5.56;"São Paulo";"São Paulo";2
+22;462.13;"24 portas";"com ar condicionado";"2021-05-17 00:00:00";18;"Feminino";501.94;6.94;"Rio de Janeiro";"Rio de Janeiro";2
+23;412.72;"25 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Masculino";957.44;4.41;"Rio de Janeiro";"Teresópolis";4
+24;515.96;"26 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Feminino";447.87;4.74;"Rio de Janeiro";"Niterói";3
+25;467.6;"27 portas";"com ar condicionado";"2021-06-07 00:00:00";25;"Feminino";568.24;4.72;"Bahia";"Salvador";3
+26;339.55;"28 portas";"com ar condicionado";"2021-05-18 00:00:00";29;"Feminino";930.7;4.7;"Rio de Janeiro";"Rio de Janeiro";2
+27;368.38;"29 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Feminino";957.44;4.41;"Minas Gerais";"Belo Horizonte";4
+28;446.85;"30 portas";"com ar condicionado";"2021-05-12 00:00:00";18;"Feminino";829.53;5.63;"Bahia";"Salvador";2
+29;414.73;"31 portas";"sem ar condicionado";"2021-04-14 00:00:00";28;"Masculino";923.3;8.81;"Rio de Janeiro";"Teresópolis";4
+30;434.29;"32 portas";"com ar condicionado";"2021-06-02 00:00:00";21;"Masculino";871.52;4.26;"São Paulo";"Ribeirão Preto";3
+31;436.65;"33 portas";"com ar condicionado";"2021-05-13 00:00:00";18;"Feminino";930.7;6.93;"Minas Gerais";"Divinópolis";4
+32;436.65;"34 portas";"com ar condicionado";"2021-04-01 00:00:00";0;"Feminino";930.7;6.93;"Bahia";"Ilhéus";3
+33;457.66;"35 portas";"sem ar condicionado";"2021-04-15 00:00:00";21;"Masculino";554.7;1.61;"Minas Gerais";"Betim";3
+34;490.69;"36 portas";"com ar condicionado";"2021-06-03 00:00:00";18;"Feminino";501.94;2.58;"Minas Gerais";"Uberlândia";4
+35;474.88;"37 portas";"sem ar condicionado";"2021-05-14 00:00:00";20;"Feminino";665.44;4.67;"Goiás";"Goiânia";3
+36;488.46;"38 portas";"com ar condicionado";"2021-04-16 00:00:00";25;"Masculino";568.24;1.68;"Bahia";"Salvador";3
+37;412.72;"39 portas";"sem ar condicionado";"2021-06-04 00:00:00";29;"Masculino";930.7;7.34;"São Paulo";"São Paulo";2
+38;448.8;"40 portas";"com ar condicionado";"2021-05-15 00:00:00";18;"Feminino";554.7;4.52;"São Paulo";"Marília";4
+39;352.04;"41 portas";"com ar condicionado";"2021-04-17 00:00:00";33;"Masculino";829.53;2.97;"São Paulo";"Marília";3
+40;449.46;"42 portas";"sem ar condicionado";"2021-06-05 00:00:00";20;"Masculino";665.44;9.91;"São Paulo";"Marília";4
+41;416.15;"43 portas";"com ar condicionado";"2021-05-16 00:00:00";21;"Feminino";871.52;8.56;"Minas Gerais";"Uberlândia";3
+42;416.5;"44 portas";"sem ar condicionado";"2021-04-18 00:00:00";18;"Feminino";930.7;5.93;"Minas Gerais";"Divinópolis";4
+43;416.5;"45 portas";"sem ar condicionado";"2021-03-01 00:00:00";20;"Feminino";957.44;8.56;"Goiás";"Anápolis";4
+44;551.32;"46 portas";"com ar condicionado";"2021-06-06 00:00:00";21;"Masculino";351.55;5.56;"São Paulo";"São Paulo";2
+45;462.13;"47 portas";"com ar condicionado";"2021-05-17 00:00:00";18;"Masculino";501.94;6.94;"Rio de Janeiro";"Rio de Janeiro";2
+46;515.96;"48 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Masculino";447.87;4.74;"Rio de Janeiro";"Niterói";3
+47;467.6;"49 portas";"com ar condicionado";"2021-06-07 00:00:00";25;"Feminino";568.24;4.72;"Bahia";"Ilhéus";4
+48;339.55;"50 portas";"com ar condicionado";"2021-05-18 00:00:00";29;"Masculino";930.7;4.7;"Rio de Janeiro";"Teresópolis";4
+49;368.38;"51 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Masculino";957.44;4.41;"Minas Gerais";"Belo Horizonte";2
+50;446.85;"52 portas";"com ar condicionado";"2021-05-12 00:00:00";18;"Masculino";829.53;5.63;"Bahia";"Ilhéus";3
+51;414.73;"53 portas";"sem ar condicionado";"2021-04-14 00:00:00";28;"Feminino";923.3;8.81;"Rio de Janeiro";"Niterói";3
+52;434.29;"54 portas";"com ar condicionado";"2021-06-02 00:00:00";21;"Feminino";871.52;4.26;"São Paulo";"São Paulo";2
+53;436.65;"55 portas";"com ar condicionado";"2021-05-13 00:00:00";18;"Masculino";930.7;6.93;"Minas Gerais";"Uberlândia";3
+54;457.66;"56 portas";"sem ar condicionado";"2021-04-15 00:00:00";21;"Feminino";554.7;1.61;"Minas Gerais";"Belo Horizonte";2
+55;490.69;"57 portas";"com ar condicionado";"2021-06-03 00:00:00";18;"Feminino";501.94;2.58;"Minas Gerais";"Belo Horizonte";2
+56;474.88;"58 portas";"sem ar condicionado";"2021-05-14 00:00:00";20;"Masculino";665.44;4.67;"Goiás";"Anápolis";4
+57;458.46;"59 portas";"com ar condicionado";"2021-04-16 00:00:00";25;"Masculino";568.24;1.68;"Bahia";"Feira de Santana";4
+58;412.72;"60 portas";"sem ar condicionado";"2021-06-04 00:00:00";29;"Masculino";930.7;7.34;"São Paulo";"Ribeirão Preto";3
+59;448.8;"61 portas";"com ar condicionado";"2021-05-15 00:00:00";18;"Masculino";554.7;4.52;"São Paulo";"Marília";4
+60;352.04;"62 portas";"com ar condicionado";"2021-04-17 00:00:00";33;"Feminino";829.53;2.97;"São Paulo";"Marília";4
+61;449.46;"63 portas";"sem ar condicionado";"2021-06-05 00:00:00";20;"Masculino";665.44;9.91;"São Paulo";"Ribeirão Preto";3
+62;416.15;"64 portas";"com ar condicionado";"2021-05-16 00:00:00";21;"Feminino";871.52;8.56;"Minas Gerais";"Divinópolis";4
+63;416.5;"65 portas";"sem ar condicionado";"2021-04-18 00:00:00";18;"Masculino";930.7;5.93;"Minas Gerais";"Belo Horizonte";2
+64;551.32;"66 portas";"com ar condicionado";"2021-06-06 00:00:00";21;"Masculino";351.55;5.56;"São Paulo";"Ribeirão Preto";4
+65;462.13;"67 portas";"com ar condicionado";"2021-05-17 00:00:00";18;"Feminino";501.94;6.94;"Rio de Janeiro";"Rio de Janeiro";3
+66;515.96;"68 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Feminino";447.87;4.74;"Rio de Janeiro";"Rio de Janeiro";3
+67;467.6;"69 portas";"com ar condicionado";"2021-06-07 00:00:00";25;"Feminino";568.24;4.72;"Bahia";"Salvador";2
+68;339.55;"70 portas";"com ar condicionado";"2021-05-18 00:00:00";29;"Feminino";930.7;4.7;"Rio de Janeiro";"Niterói";3
+69;368.38;"71 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Feminino";957.44;4.41;"Minas Gerais";"Divinópolis";4
+70;446.85;"72 portas";"com ar condicionado";"2021-05-12 00:00:00";18;"Feminino";829.53;5.63;"Bahia";"Ilhéus";3
+71;414.73;"73 portas";"sem ar condicionado";"2021-04-14 00:00:00";28;"Masculino";923.3;8.81;"Rio de Janeiro";"Rio de Janeiro";3
+72;434.29;"74 portas";"com ar condicionado";"2021-06-02 00:00:00";21;"Masculino";871.52;4.26;"São Paulo";"São Paulo";2
+73;436.65;"75 portas";"com ar condicionado";"2021-05-13 00:00:00";18;"Masculino";930.7;6.93;"Minas Gerais";"Uberlândia";3
+74;457.66;"76 portas";"sem ar condicionado";"2021-04-15 00:00:00";21;"Masculino";554.7;1.61;"Minas Gerais";"Belo Horizonte";2
+75;416.5;"77 portas";"sem ar condicionado";"2021-06-06 00:00:00";26;"Feminino";930.7;5.93;"Rio de Janeiro";"Niterói";3
+76;490.69;"78 portas";"com ar condicionado";"2021-06-03 00:00:00";18;"Masculino";501.94;2.58;"Minas Gerais";"Betim";3
+77;494.88;"79 portas";"sem ar condicionado";"2021-05-14 00:00:00";20;"Feminino";665.44;4.67;"Goiás";"Goiânia";3
+78;458.46;"80 portas";"com ar condicionado";"2021-04-16 00:00:00";25;"Masculino";568.24;1.68;"Bahia";"Salvador";3
+79;412.72;"81 portas";"sem ar condicionado";"2021-06-04 00:00:00";29;"Feminino";930.7;7.34;"São Paulo";"Marília";4
+80;333.74;"82 portas";"com ar condicionado";"2021-05-15 00:00:00";18;"Masculino";554.7;4.52;"Minas Gerais";"Divinópolis";4
+81;352.04;"83 portas";"com ar condicionado";"2021-04-17 00:00:00";33;"Masculino";829.53;2.97;"São Paulo";"Marília";3
+82;449.46;"84 portas";"sem ar condicionado";"2021-06-05 00:00:00";20;"Feminino";665.44;9.91;"São Paulo";"Ribeirão Preto";3
+83;416.15;"85 portas";"com ar condicionado";"2021-05-16 00:00:00";21;"Feminino";871.52;8.56;"Minas Gerais";"Uberlândia";3
+84;416.5;"86 portas";"sem ar condicionado";"2021-04-18 00:00:00";18;"Feminino";930.7;5.93;"Minas Gerais";"Uberlândia";3
+85;446.85;"87 portas";"com ar condicionado";"2021-02-15 00:00:00";0;"Feminino";829.53;5.63;"Bahia";"Ilhéus";3
+86;551.32;"88 portas";"com ar condicionado";"2021-06-06 00:00:00";21;"Feminino";351.55;5.56;"São Paulo";"Ribeirão Preto";4
+87;654.0;"89 portas";"sem ar condicionado";"2021-03-27 00:00:00";0;"Masculino";345.79;3.98;"São Paulo";"São Paulo";5
+88;462.13;"90 portas";"com ar condicionado";"2021-05-17 00:00:00";18;"Feminino";501.94;6.94;"Rio de Janeiro";"Rio de Janeiro";2
+89;395.85;"91 portas";"sem ar condicionado";"2021-02-14 00:00:00";19;"Feminino";599.53;4.1;"Bahia";"Feira de Santana";4
+90;515.96;"92 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Feminino";447.87;4.74;"Rio de Janeiro";"Niterói";3
+91;467.6;"93 portas";"com ar condicionado";"2021-06-07 00:00:00";25;"Feminino";568.24;4.72;"Bahia";"Feira de Santana";4
+92;339.55;"94 portas";"com ar condicionado";"2021-05-18 00:00:00";29;"Feminino";930.7;4.7;"Rio de Janeiro";"Teresópolis";4
+93;368.38;"95 portas";"sem ar condicionado";"2021-06-01 00:00:00";23;"Feminino";957.44;4.41;"Minas Gerais";"Belo Horizonte";2
+94;446.85;"96 portas";"com ar condicionado";"2021-05-12 00:00:00";18;"Feminino";829.53;5.63;"Bahia";"Ilhéus";3
+95;654.0;"97 portas";"com ar condicionado";"2021-06-29 00:00:00";0;"Masculino";930.7;4.52;"Bahia";"Salvador";5
+96;414.73;"98 portas";"sem ar condicionado";"2021-04-14 00:00:00";28;"Feminino";923.3;8.81;"Rio de Janeiro";"Teresópolis";3
+97;434.29;"99 portas";"com ar condicionado";"2021-06-02 00:00:00";21;"Feminino";871.52;4.26;"São Paulo";"São Paulo";2
+98;436.65;"100 portas";"com ar condicionado";"2021-05-13 00:00:00";18;"Masculino";930.7;6.93;"Minas Gerais";"Belo Horizonte";2
+99;436.85;"101 portas";"com ar condicionado";"2021-01-14 00:00:00";29;"Masculino";629.53;4.54;"Bahia";"Ilhéus";4
+100;457.66;"102 portas";"sem ar condicionado";"2021-04-15 00:00:00";21;"Masculino";554.7;1.61;"Minas Gerais";"Uberlândia";2
+101;490.69;"103 portas";"com ar condicionado";"2021-06-03 00:00:00";18;"Feminino";501.94;2.58;"Minas Gerais";"Belo Horizonte";2
+102;474.88;"104 portas";"sem ar condicionado";"2021-05-14 00:00:00";20;"Feminino";665.44;4.67;"Goiás";"Goiânia";2
+103;457.66;"105 portas";"sem ar condicionado";"2021-03-17 00:00:00";27;"Masculino";554.7;1.61;"Rio de Janeiro";"Rio de Janeiro";2
+104;490.69;"106 portas";"com ar condicionado";"2021-06-21 00:00:00";33;"Feminino";930.7;4.41;"Goiás";"Anápolis";5
+105;458.46;"107 portas";"com ar condicionado";"2021-04-16 00:00:00";25;"Masculino";568.24;1.68;"Bahia";"Salvador";3
+106;412.72;"108 portas";"sem ar condicionado";"2021-06-04 00:00:00";29;"Masculino";930.7;7.34;"São Paulo";"São Paulo";2
+107;448.8;"109 portas";"com ar condicionado";"2021-05-15 00:00:00";18;"Feminino";554.7;4.52;"São Paulo";"Ribeirão Preto";3
+108;352.04;"110 portas";"com ar condicionado";"2021-04-17 00:00:00";33;"Feminino";829.53;2.97;"São Paulo";"São Paulo";2
+109;449.46;"111 portas";"sem ar condicionado";"2021-06-16 00:00:00";25;"Masculino";665.44;9.91;"Minas Gerais";"Belo Horizonte";4
+110;368.38;"112 portas";"com ar condicionado";"2021-04-15 00:00:00";35;"Feminino";554.7;4.26;"São Paulo";"São Paulo";2
+111;416.15;"113 portas";"com ar condicionado";"2021-05-16 00:00:00";21;"Masculino";871.52;8.56;"Minas Gerais";"Belo Horizonte";2
+112;416.5;"114 portas";"sem ar condicionado";"2021-04-18 00:00:00";18;"Feminino";930.7;5.93;"Minas Gerais";"Divinópolis";4
+113;551.32;"115 portas";"com ar condicionado";"2021-06-17 00:00:00";21;"Feminino";351.55;5.56;"São Paulo";"São Paulo";3
+114;462.13;"116 portas";"com ar condicionado";"2021-05-17 00:00:00";18;"Masculino";501.94;6.94;"Rio de Janeiro";"Niterói";3
+115;515.96;"117 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Feminino";447.87;4.74;"Rio de Janeiro";"Rio de Janeiro";3
+116;467.6;"118 portas";"com ar condicionado";"2021-06-18 00:00:00";25;"Feminino";568.24;4.72;"Bahia";"Salvador";2
+117;339.55;"119 portas";"com ar condicionado";"2021-05-18 00:00:00";29;"Feminino";930.7;4.7;"Rio de Janeiro";"Niterói";3
+118;449.46;"120 portas";"sem ar condicionado";"2021-04-19 00:00:00";20;"Masculino";665.44;9.91;"São Paulo";"Ribeirão Preto";4
+119;416.5;"121 portas";"sem ar condicionado";"2021-01-01 00:00:00";25;"Masculino";930.7;5.27;"Bahia";"Ilhéus";4
+120;510.69;"122 portas";"com ar condicionado";"2021-04-19 00:00:00";0;"Feminino";501.94;2.58;"Minas Gerais";"Belo Horizonte";2
+121;490.69;"123 portas";"com ar condicionado";"2021-06-18 00:00:00";24;"Masculino";516.94;3.45;"Goiás";"Goiânia";3
